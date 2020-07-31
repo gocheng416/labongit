@@ -1,2 +1,2 @@
 # labongit
-lab on GitHub
+This is for CKA test, lab on GitHub
